@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">L6_Practice_Tasks</string>
+    <string name="signup">Signup</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="_0000_0000000">0000 0000000</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="phoneno">Phoneno</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_password">Enter your password</string>
+
+    <string name="login">Login</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="username">Username</string>
+
+    <string name="avatar">avatar</string>
+</resources>
